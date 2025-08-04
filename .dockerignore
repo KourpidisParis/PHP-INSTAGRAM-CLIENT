@@ -1,0 +1,22 @@
+# Ignore files that shouldn't be copied to Docker image
+vendor/
+node_modules/
+.git/
+.gitignore
+.env
+.env.local
+.env.*.local
+*.log
+logs/
+cache/
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+docker-compose.yml
+Dockerfile
+README.md
