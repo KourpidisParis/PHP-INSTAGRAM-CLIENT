@@ -1,6 +1,6 @@
 # Instagram Client
 
-A simple PHP client for Instagram Basic Display API.
+A simple PHP client for InstagramAPI.
 
 ## Setup with Docker
 
